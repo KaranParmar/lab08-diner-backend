@@ -1,1 +1,2 @@
-# lab08-diner-backend
+# starter-standalone
+Starter for lab 8
